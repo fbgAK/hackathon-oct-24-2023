@@ -18,6 +18,7 @@ https://codepen.io/tag/calendar
 https://codepen.io/andyydna/pen/VwYRVQE
 
 - *How did it go?* 
+
 Wanted to make it more interactive have a search bar which acts kind of like a planner where you can search existing
 tasks or add new tasks but could not get it to work with the time I had.
 
